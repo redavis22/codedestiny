@@ -1,6 +1,6 @@
 #!/usr/bin/python/
 
-player_health=100
+player_health=200
 
 stab = -1
 
