@@ -2,8 +2,8 @@
 
 player_health=100
 
-stab = 1
+stab = -1
 
-injury = player_health - stab
+injury = player_health + stab
 
 print injury
