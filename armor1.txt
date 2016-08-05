@@ -1,3 +1,3 @@
 ****armor attributes****
-name : "add name"
-health : "add health score"
+name : "Autumns Descent"
+health : "+50 Regeneration"
